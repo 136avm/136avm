@@ -20,5 +20,3 @@
 - 📧 Contact me **avm2004calasparra@gmail.com**
 
 - 🌱 I'm currently learning **c++**
-
-- 📲 Telegram **[here](https://telegram.me/avm_136)**
