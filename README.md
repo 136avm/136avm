@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
-  <h1 align="center">Hi 👋, I'm 136avm</h1>
+  <h1 align="center">Hola 👋, soy Antonio</h1>
   <h3>
-    A passionate Computer Science student. I like to program in my free time, and also I edit video and photografy.
+    Un apasionado programador y editor de vídeo y fotografía.
   </h3>
 <div id="badges" align="center">
   <a href="https://twitter.com/136Avm">
@@ -13,10 +13,10 @@
   </a>
 </div>
 ---
-### 💻 About Me:
+💻 Sobre mi:
 
-- 📚 I'm studing Computer Science - UMU
+- 📚 Estudiando Ingeniería Informática - UMU
 
-- 📧 Contact me **avm2004calasparra@gmail.com**
+- 📧 Contacta conmigo: **avm2004calasparra@gmail.com**
 
-- 🌱 I'm currently learning **c++**
+- 🌱 Actualmente aprendiendo **c++**
