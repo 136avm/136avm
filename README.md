@@ -14,6 +14,7 @@
 </div>
 ###
 💻 Sobre mi:
+###
 
 📚 Estudiando Ingeniería Informática - UMU
 
