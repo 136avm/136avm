@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
   <h1 align="center">Hola 👋, soy Antonio</h1>
   <h3>
-    Un apasionado programador y editor de vídeo y fotografía.
+    Un apasionado programador.
   </h3>
 <div id="badges" align="center">
   <a href="https://twitter.com/136Avm">
