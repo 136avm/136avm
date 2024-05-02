@@ -18,4 +18,3 @@
 
 📧 Contacta conmigo: **avm2004calasparra@gmail.com**
 
-🌱 Actualmente aprendiendo **Python**
