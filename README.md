@@ -1,50 +1,52 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150"/>
-  <h1>Hola 👋, soy Antonio Vergara</h1>
-  <h3>Estudiante de Ingeniería Informática | Creador de productos digitales y laboratorios virtuales</h3>
-</div>
+# Antonio Vergara
+
+## Pentesting · Offensive Security · Ethical Hacking
+
+![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-2ea44f?style=flat-square)
+![BSCP](https://img.shields.io/badge/BSCP-In%20progress-e67e00?style=flat-square)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9fef00?style=flat-square&logo=hackthebox&logoColor=black)
+![Writeups](https://img.shields.io/badge/Writeups-16+-1a3a6b?style=flat-square)
+
+Computer Science student at the University of Murcia with a solid technical background in software development, networking and systems administration. Currently focused on **offensive security**: active CTFs, exploitation labs and public technical documentation of everything I learn.
+
+My learning style is practical and documented. Every machine I solve ends up as a writeup. Every technique I study ends up in a repository or a note. I believe the best way to consolidate offensive knowledge is to explain it.
 
 ---
 
-💻 **Sobre mí**  
-Soy un apasionado de la programación y la administración de sistemas. Me encanta crear **productos digitales, laboratorios virtuales y herramientas técnicas** que faciliten el aprendizaje, la práctica y la automatización de tareas en redes y sistemas.
+## Certifications
 
-📚 **Formación**  
-Grado en Ingeniería Informática - Universidad de Murcia (UMU)  
-Mención en Tecnologías de la Información
+**eJPTv2 — eLearnSecurity Junior Penetration Tester** · INE Security · 03/2026  
+**BSCP — Burp Suite Certified Practitioner** · PortSwigger · In progress
 
 ---
 
-🛠️ **Habilidades destacadas**  
+## What I am working on now
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat)
-![Networking](https://img.shields.io/badge/-Networking-1E90FF?style=flat)
-![VoIP](https://img.shields.io/badge/-VoIP-00BFFF?style=flat)
-![Asterisk](https://img.shields.io/badge/-Asterisk-FF0000?style=flat)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat)
-![MQTT](https://img.shields.io/badge/-MQTT-FF6F00?style=flat)
-![Automation](https://img.shields.io/badge/-Automation-4B0082?style=flat)
+Preparing the **BSCP**, which requires real mastery of web vulnerabilities and advanced Burp Suite usage. It is not a certification you pass by memorising: it requires solving practical PortSwigger Web Security Academy labs under time pressure.
+
+In parallel, I keep active on **HackTheBox** and publish writeups for every machine at [blog.antoniovergara.es](https://blog.antoniovergara.es). Over 16 published so far, covering reconnaissance, enumeration, exploitation and privilege escalation on Linux and Windows environments.
 
 ---
 
-🌟 **Portfolio / Proyectos destacados**  
+## Technical background
 
-Mis repositorios incluyen proyectos universitarios, laboratorios virtuales y scripts prácticos. Aunque algunos son experimentos o pruebas técnicas, reflejan mi capacidad para **integrar sistemas, automatizar tareas y desarrollar herramientas reproducibles**.
+Beyond the offensive side, I come from a broad Computer Science education that includes real production development experience:
+
+- Programming in **Python, Bash, C# and Java**
+- Advanced **Linux** administration and **Windows** environments
+- Virtualisation and lab setups with **VirtualBox, VMware and Docker**
+- Relational databases: **SQL Server, MySQL, OracleDB**
+
+Understanding how systems are built and operated feels essential to understanding how to attack them.
 
 ---
 
-📩 **Contacto**  
-Si quieres colaborar en proyectos, ver más sobre mis herramientas o laboratorios, contáctame: **antonio@antoniovergara.es**
+## Where I am headed
+
+My goal is to join an **audit or ethical hacking team** where I can work on real engagements and keep growing. In the medium term, I aim to specialise in offensive security across web applications and infrastructure.
 
 ---
 
-<div align="center">
-  <sub>¡Gracias por visitar mi GitHub! 🚀</sub>
-</div>
+## Contact
+
+[antonio@antoniovergara.es](mailto:antonio@antoniovergara.es) · [LinkedIn](https://www.linkedin.com/in/antoniovergara-it/) · [Blog](https://blog.antoniovergara.es)
