@@ -5,7 +5,7 @@
 ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-2ea44f?style=flat-square)
 ![CRTP](https://img.shields.io/badge/CRTP-In%20progress-e67e00?style=flat-square)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9fef00?style=flat-square&logo=hackthebox&logoColor=black)
-![Writeups](https://img.shields.io/badge/Writeups-16+-1a3a6b?style=flat-square)
+![Writeups](https://img.shields.io/badge/Writeups-30+-1a3a6b?style=flat-square)
 
 Computer Science student at the University of Murcia with a solid technical background in software development, networking and systems administration. Currently focused on **offensive security**: active CTFs, exploitation labs and public technical documentation of everything I learn.
 
