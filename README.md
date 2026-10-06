@@ -16,7 +16,7 @@ My learning style is practical and documented. Every machine I solve ends up as 
 ## Certifications
 
 **eJPTv2 — eLearnSecurity Junior Penetration Tester** · INE Security · 03/2026  
-**BSCP — Burp Suite Certified Practitioner** · PortSwigger · In progress
+**CRTP — Certified Red Team Professional** · Altered Security · In progress
 
 ---
 
