@@ -3,7 +3,7 @@
 ## Pentesting · Offensive Security · Ethical Hacking
 
 ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-2ea44f?style=flat-square)
-![BSCP](https://img.shields.io/badge/BSCP-In%20progress-e67e00?style=flat-square)
+![CRTP](https://img.shields.io/badge/CRTP-In%20progress-e67e00?style=flat-square)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9fef00?style=flat-square&logo=hackthebox&logoColor=black)
 ![Writeups](https://img.shields.io/badge/Writeups-16+-1a3a6b?style=flat-square)
 
